@@ -1,0 +1,23 @@
+
+    body ,html {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 12px;
+        background-color: white;
+        height: 100%;
+        font-weight: 700;
+    }
+
+    .container {
+        display: flex;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .login-form {
+        height: 325px;
+        width: 430px;
+        padding: 0 35px;
+        background-color: white;
+        border: none;
+    }
